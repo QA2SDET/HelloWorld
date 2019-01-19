@@ -16,6 +16,7 @@ Display the current time on the console
 ## Tools to Install
 1. Java SDK version 8 unless your team works with 11
 2. IntelliJ (from JetBrains or local repository)
-3. Git (from GitHub)
-4. TortoiseGit (makes it easy to view repositories in Explorer)
-5. Notepad++ (quick editor with syntax highlighting)
+3. Create GitHub account
+4. Git (from GitHub)
+5. TortoiseGit (makes it easy to view repositories in Explorer)
+6. Notepad++ (quick editor with syntax highlighting)
